@@ -23,4 +23,7 @@ WRONG --> java -jar britishGasTest.jar 1 2 3 4 5 4 5
 
 As output, the program will provide the actual position of the second array within the first one
 
+# JAVA 8
+
+The actual project has been developed by means of Java 8, to take advantage of the new library java.util.stream.
 
