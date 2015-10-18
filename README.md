@@ -1,7 +1,7 @@
 # BritishGasTest
 
 
-he actual repository is to provide a solution to the first question of a quiz proposed by British Gas.
+The actual repository is to provide a solution to the first question of a quiz proposed by British Gas.
 
 The project can be manually built by executing the following maven command:
 
