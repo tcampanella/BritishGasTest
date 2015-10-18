@@ -20,8 +20,6 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		
-		
-		
 		if(args.length == 2) {
 		
 			String[] targetStringArray = args[0].trim().split("");
@@ -38,7 +36,7 @@ public class Main {
 		
 		} else {
 			
-			System.out.println("Please provide two arguments");
+			System.out.println("Please provide exactly two arguments");
 		}
 		
 	}

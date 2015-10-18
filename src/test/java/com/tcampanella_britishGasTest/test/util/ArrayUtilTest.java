@@ -1,11 +1,6 @@
-/**
- * 
- */
 package com.tcampanella_britishGasTest.test.util;
 
 import static org.junit.Assert.*;
-
-import java.util.ArrayList;
 
 import org.junit.Test;
 
@@ -14,6 +9,7 @@ import com.tcampanella.britishGasTest.util.ArrayUtil;
 /**
  * @author Tommaso Campanella
  *
+ * Unit test for ArrayUtil class
  */
 public class ArrayUtilTest {
 	

@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.tcampanella.britishGasTest.util;
 
 import java.util.Arrays;
